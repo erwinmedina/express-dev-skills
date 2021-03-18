@@ -1,0 +1,24 @@
+body {
+  width: 100vw;
+  height: 100vh;
+  background: linear-gradient(#83a4d4, #b6fbff);
+}
+
+.container {
+  height: 40vh;
+  display: flex;  
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+}
+h1 {
+  display: flex;
+  justify-content: center;
+  margin: 0 auto;
+  align-items: center;
+}
+
+.btn-primary {
+  margin: 0 auto;
+}

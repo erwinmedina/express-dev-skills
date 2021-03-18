@@ -1,0 +1,31 @@
+body {
+  height: 100vh;
+  background: linear-gradient(#000000, #e74c3c);
+}
+
+form a {
+  margin-left: 10px;
+}
+
+.navbar-brand {
+  font-size: 30px;
+}
+
+ul {
+  margin-top: 20px;
+}
+
+li {
+  margin: 0 auto;
+  width: 450px;
+}
+
+form a {
+  font-size: 20px;
+  color: black;
+  text-decoration: none;
+}
+
+form a:hover {
+  color: rgba(0, 0, 0, 0.6);
+}

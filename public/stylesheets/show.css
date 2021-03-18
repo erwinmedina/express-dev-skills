@@ -1,0 +1,18 @@
+body {
+  height: 100vh;
+  background: linear-gradient(#c04848, #480048);
+}
+
+.navbar-brand {
+  font-size: 30px;
+}
+
+ul {
+  margin-top: 20px;
+}
+
+li {
+  font-size: 20px;
+  margin: 0 auto;
+  width: 450px;
+}
