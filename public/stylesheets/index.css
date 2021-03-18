@@ -6,12 +6,12 @@ body {
 
 .container {
   height: 40vh;
-  display: flex;  
+  display: flex;
   justify-content: center;
   align-items: center;
   flex-direction: column;
 }
-}
+
 h1 {
   display: flex;
   justify-content: center;
@@ -21,4 +21,11 @@ h1 {
 
 .btn-primary {
   margin: 0 auto;
+}
+
+li {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  vertical-align: center;
 }
